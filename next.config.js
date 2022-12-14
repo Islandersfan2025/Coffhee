@@ -1,11 +1,12 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
-  exportTrailingSlash: true,
+  trailingSlash: true,
+  images: {
+    unoptimized: true,
+  },
   exportPathMap: function() {
     return {
-    '/': { page: '/' }
+      '/': { page: '/' }
     };
-  }
-};
- 
-
+  }     
+ };
