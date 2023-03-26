@@ -32,11 +32,11 @@ const SearchToken = ({ openToken, tokens, tokenData }) => {
     },
     {
       img: images.ether,
-      name: "TFIL",
+      name: "WFIL",
     },
     {
       img: images.ether,
-      name: "CAKE",
+      name: "BUSD",
     },
     {
       img: images.ether,
@@ -44,11 +44,11 @@ const SearchToken = ({ openToken, tokens, tokenData }) => {
     },
     {
       img: images.ether,
-      name: "MATIC",
+      name: "TRB",
     },
     {
       img: images.ether,
-      name: "CURVE  ",
+      name: "Link  ",
     },
   ];
   return (
