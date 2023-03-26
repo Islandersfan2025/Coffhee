@@ -15,15 +15,11 @@ const NavBar = () => {
     useContext(SwapTokenContext);
   const menuItems = [
     {
-      name: "Governance",
+      name: "Swaps",
       link: "/",
     },
     {
-      name: "Cross-Chain",
-      link: "/",
-    },
-    {
-      name: "Bonds",
+      name: "Tokens",
       link: "/",
     },
     {
