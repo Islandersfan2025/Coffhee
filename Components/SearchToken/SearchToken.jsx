@@ -12,11 +12,11 @@ const SearchToken = ({ openToken, tokens, tokenData }) => {
   const coin = [
     {
       img: images.ether,
-      name: "FIL",
+      name: "USD.e",
     },
     {
       img: images.ether,
-      name: "DAI",
+      name: "tBTC",
     },
     {
       img: images.ether,
@@ -24,7 +24,7 @@ const SearchToken = ({ openToken, tokens, tokenData }) => {
     },
     {
       img: images.ether,
-      name: "USDT",
+      name: "USDX",
     },
     {
       img: images.ether,
@@ -32,19 +32,19 @@ const SearchToken = ({ openToken, tokens, tokenData }) => {
     },
     {
       img: images.ether,
-      name: "WFIL",
+      name: "ARB",
     },
     {
       img: images.ether,
-      name: "BUSD",
+      name: "BNB",
     },
     {
       img: images.ether,
-      name: "WBTC",
+      name: "DAI",
     },
     {
       img: images.ether,
-      name: "TRB",
+      name: "USD1",
     },
     {
       img: images.ether,
