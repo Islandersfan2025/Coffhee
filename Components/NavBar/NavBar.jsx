@@ -15,7 +15,7 @@ const NavBar = () => {
     useContext(SwapTokenContext);
   const menuItems = [
     {
-      name: "Swaps",
+      name: "Bridge",
       link: "/",
     },
     {
