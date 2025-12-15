@@ -25,7 +25,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 1px solid #80BDE3;
+    border: 1px solid #0bf8b9;
     border-radius: .5rem;
     padding-left: 2rem;
     margin-top: 1rem;
@@ -35,7 +35,7 @@
     border: 0;
     outline: 0;
     background-color: transparent;
-    color: #80BDE3;
+    color: #0bf8b9;
     font-size: 1.2rem;
 }
 
@@ -45,7 +45,7 @@
     justify-content: space-between;
     gap: 1rem;
     line-height: 0;
-    background-color: #80BDE3;
+    background-color: #0bf8b9;
     padding: 1rem;
     font-weight: 700;
     font-size: 1.2rem;
@@ -53,7 +53,7 @@
 }
 
 .HeroSection_box_btn{
-    background-color: #80BDE3;
+    background-color: #0bf8b9;
     border: 0;
     outline: 0;
     width: 100%;
